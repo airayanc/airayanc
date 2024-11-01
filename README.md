@@ -20,8 +20,6 @@ To join the competition and get more details about rules, guidelines, and datase
 
 ### Important Links
 - [Official Rules](https://ai.rayan.global/rules)
-- [Datasets](https://ai.rayan.global/datasets)
-- [Leaderboard](https://ai.rayan.global/leaderboard)
 - [FAQ](https://ai.rayan.global/faq)
 
 ## Get Involved 💡
