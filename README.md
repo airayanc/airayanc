@@ -19,8 +19,8 @@ Participants will work on challenges involving:
 To join the competition and get more details about rules, guidelines, and datasets, visit our [official website](https://ai.rayan.global).
 
 ### Important Links
-- [Official Rules](https://ai.rayan.global/rules)
-- [FAQ](https://ai.rayan.global/faq)
+- [Official Rules](https://ai.rayan.global/privacy-policy)
+- [FAQ](https://ai.rayan.global/#Questions)
 
 ## Get Involved 💡
 This GitHub repository serves as a central hub for code, challenges, and resources related to the competition. You can:
